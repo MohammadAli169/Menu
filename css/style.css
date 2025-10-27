@@ -19,9 +19,7 @@
 
     .menu{
         width: 1020px;
-        
-        
-        margin: 0 auto;
+         margin: 0 auto;
     }
     .menu,ol{
         display: flex;
